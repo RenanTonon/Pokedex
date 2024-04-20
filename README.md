@@ -1,0 +1,2 @@
+# Pokedex
+Utilizando APIs Pokemon
